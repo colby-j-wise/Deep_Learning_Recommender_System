@@ -5,4 +5,11 @@ pip-selfcheck.json
 .ropeproject
 .cache
 __pycache__/
-
+*.aux
+*.log
+*.out
+*.synctex.gz
+.ipynb_checkpoints
+data
+venv
+.DS_Store
